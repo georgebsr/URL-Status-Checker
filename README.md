@@ -2,7 +2,7 @@
 
 ## Introduction
 
-URL Status Checker is a Python script designed to automate the task of checking the status codes of URLs listed in an Excel file. I wrote this script to help me automate some tasks in my job. It can be useful for tasks such as data analysis, quality assurance, or any scenario where validating URLs is necessary.
+URL Status Checker is a Python script designed to automate the task of checking the status codes of URLs listed in an Excel file. I wrote this script to help me automate the task of checking which URLs still work on a very big Excel file on my job.
 
 ## Features
 
